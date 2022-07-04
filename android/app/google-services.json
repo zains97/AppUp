@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264177483883",
+    "project_id": "appup-2af04",
+    "storage_bucket": "appup-2af04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264177483883:android:f0c770e19ac1c3be66b12e",
+        "android_client_info": {
+          "package_name": "com.appup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264177483883-f4b4sphddm9b70drv5bdipc7as9pt9a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWE4Lo3fnVnpnEahQ8rqxLNPf0s5UlF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264177483883-f4b4sphddm9b70drv5bdipc7as9pt9a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
